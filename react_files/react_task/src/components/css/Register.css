@@ -1,0 +1,17 @@
+.error
+{
+  color: red;
+}
+
+form
+{
+  width: 50%;
+  align-items: center;
+}
+form {
+    display: inline-block;
+}
+.input-field
+{
+  height: 61px;
+}

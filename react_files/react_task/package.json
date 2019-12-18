@@ -1,0 +1,44 @@
+{
+  "name": "react_task",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "css-loader": "^3.2.0",
+    "history": "^4.10.1",
+    "less": "^3.10.3",
+    "less-loader": "^5.0.0",
+    "node-sass": "^4.13.0",
+    "react": "^16.10.2",
+    "react-datepicker": "^2.9.6",
+    "react-dom": "^16.10.2",
+    "react-images-upload": "^1.2.7",
+    "react-input-just-numbers": "^1.0.3",
+    "react-modal": "^3.10.1",
+    "react-responsive-modal": "^4.0.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.2.0",
+    "style-loader": "^1.0.0",
+    "timestamp-to-date": "^1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
